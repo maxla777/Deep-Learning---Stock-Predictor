@@ -1,1 +1,1 @@
-# Deep-Learning---Stock-Predictor
+# Deep-Learning---Stock Predictor
